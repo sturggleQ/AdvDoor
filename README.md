@@ -39,7 +39,7 @@ If there is a trigger already, run the following command to train a poisoned mod
 ### Evaluation
 We will first generate the perturbation.
 The fooling rate is shown below.
-<div align=center><img src="imgs/generation.png" alt="generation" style="zoom:40%;" /></div>
+<div align=center><img src="imgs/generation.png" alt="generation" style="zoom:10%;" /></div>
 
 The example of the generated trigger.
 
